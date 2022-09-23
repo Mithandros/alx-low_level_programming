@@ -1,12 +1,9 @@
 #include "main.h"
-
 /**
  * print_number - Prints any integer with putchar
  * @n: integer to be printed
  *
- * Return: Nothing
  */
-
 void print_number(int n)
 {
 	unsigned int num = n;
